@@ -1,4 +1,8 @@
 master
 TestGitTan1
 lan 2
+<<<<<<< Updated upstream
 stash Tan1
+=======
+stash master
+>>>>>>> Stashed changes
