@@ -2,7 +2,11 @@ master
 TestGitTan1
 lan 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 stash Tan1
 =======
 stash master
+>>>>>>> Stashed changes
+=======
+stash Tan1
 >>>>>>> Stashed changes
